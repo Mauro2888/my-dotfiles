@@ -1,0 +1,4 @@
+iterm2
+intellij-idea
+postman
+--cask docker

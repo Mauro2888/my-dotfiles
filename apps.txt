@@ -1,0 +1,4 @@
+slack
+spotify
+brave-browser
+telegram
